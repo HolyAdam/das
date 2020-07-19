@@ -15,3 +15,12 @@ header {
     padding: 100px 200px;
     text-align: center;
 }
+
+footer {
+    padding: 30px;
+    font-size: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #777777;
+    background-color: #aaff88;
+}
